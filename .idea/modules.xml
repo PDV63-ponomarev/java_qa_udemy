@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/java_qa_udemy.iml" filepath="$PROJECT_DIR$/.idea/java_qa_udemy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/les1/les1.iml" filepath="$PROJECT_DIR$/les1/les1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/les2/les2.iml" filepath="$PROJECT_DIR$/les2/les2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/les3/les3.iml" filepath="$PROJECT_DIR$/les3/les3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/les4/les4.iml" filepath="$PROJECT_DIR$/les4/les4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/les5/les5.iml" filepath="$PROJECT_DIR$/les5/les5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/les6/les6.iml" filepath="$PROJECT_DIR$/les6/les6.iml" />
+    </modules>
+  </component>
+</project>

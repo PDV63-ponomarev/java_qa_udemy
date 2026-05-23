@@ -1,4 +1,4 @@
-public class ls6 {
+public class ls5 {
     static void main() {
         int num1 = 3;
         int num2 = 4;
